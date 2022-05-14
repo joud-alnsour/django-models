@@ -20,5 +20,4 @@ Django: 4.0.4
      - python manage.py migrate
 ## How to start the website 
 - python manage.py runserver
-- To view the snacks list, go to the url: 
->http://127.0.0.1:8000/snack-list
+- To view the snacks list, go to the url: http://127.0.0.1:8000/snack-list
